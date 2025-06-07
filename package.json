@@ -18,7 +18,7 @@
   "dependencies": {
     "commander": "^11.0.0",
     "fast-glob": "^3.3.1"
-  }
+  },
   "private": false,
-  "repository": "https://github.com/sejinjja/ls-diff",
+  "repository": "https://github.com/sejinjja/ls-diff"
 }
