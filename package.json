@@ -1,5 +1,5 @@
 {
-  "name": "li-diff",
+  "name": "@sejinjja/ls-diff",
   "version": "1.0.0",
   "description": "폴더1과 폴더2의 차이가 나는 파일을 검색해줌.",
   "main": "lib/diff.js",
@@ -13,10 +13,12 @@
     "ls",
     "diff"
   ],
-  "author": "sejiwork",
-  "license": "ISC",
+  "author": "sejinjja",
+  "license": "MIT",
   "dependencies": {
     "commander": "^11.0.0",
     "fast-glob": "^3.3.1"
   }
+  "private": false,
+  "repository": "https://github.com/sejinjja/ls-diff",
 }
