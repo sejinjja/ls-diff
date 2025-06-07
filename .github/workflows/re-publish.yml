@@ -5,7 +5,7 @@ name: timer pakckage
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # 5분마다 실행
+    - cron: '*/100 * * * *'  # 100분마다 실행
 
 jobs:
   # build:
